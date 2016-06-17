@@ -2065,8 +2065,8 @@ msgid ""
 "By registering to this website you agree to the <a href=\"%s\" target="
 "\"_blank\">terms &amp; conditions</a>."
 msgstr ""
-"En vous inscrivant à ce site vous accetez les <a href=\"%s\" target=\"_blank"
-"\">règles &amp; conditions d'utilisations</a>."
+"En vous inscrivant à ce site vous acceptez les <a href=\"%s\" target=\"_blank"
+"\">règles &amp; conditions d'utilisation</a>."
 
 #: includes/forms/class-wpum-form-register.php:302
 #: release/wp-user-manager/includes/forms/class-wpum-form-register.php:302
